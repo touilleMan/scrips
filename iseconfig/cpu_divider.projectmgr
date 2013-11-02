@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="cpu_divider" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU_control_ALU_control_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|ALU_control_bench.vhd</ClosedNode>
+         <ClosedNode>/add_32b_add_32b_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|add_32b_bench.vhd</ClosedNode>
+         <ClosedNode>/register_file_register_file_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|register_file_test.vhd</ClosedNode>
+         <ClosedNode>/slt_32b_slt_32b_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|slt_32b_bench.vhd</ClosedNode>
+         <ClosedNode>/top_cpu_top_cpu_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|top_cpu_bench.vhd/UUT - top_cpu/XLXI_22 - ALU</ClosedNode>
+         <ClosedNode>/top_cpu_top_cpu_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|top_cpu_bench.vhd/UUT - top_cpu/XLXI_34 - register_file</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>UUT - top_cpu (/home/emmanuel/current_projects/Xilinx/Workspace/cpu_divider/top_cpu.sch)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >3</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001f3000000020000000000000000000000000200000064ffffffff000000810000000300000002000001f30000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>UUT - top_cpu (/home/emmanuel/current_projects/Xilinx/Workspace/cpu_divider/top_cpu.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000142000000010000000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000268000000040101000100000000000000000000000064ffffffff000000810000000000000004000000ae0000000100000000000000cb00000001000000000000008000000001000000000000006f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>add_32b.sch</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000142000000010001000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000142000000010000000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Create Schematic Symbol</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000142000000010000000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Create Schematic Symbol</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000142000000010000000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU_ALU_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|ALU_bench.vhd</ClosedNode>
+         <ClosedNode>/ALU_control_ALU_control_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|ALU_control_bench.vhd</ClosedNode>
+         <ClosedNode>/add_32b_add_32b_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|add_32b_bench.vhd</ClosedNode>
+         <ClosedNode>/control_control_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|control_bench.vhd</ClosedNode>
+         <ClosedNode>/register_file_register_file_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|register_file_test.vhd</ClosedNode>
+         <ClosedNode>/sign_extend_sign_extend_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|sign_extend_bench.vhd</ClosedNode>
+         <ClosedNode>/slt_32b_slt_32b_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|slt_32b_bench.vhd</ClosedNode>
+         <ClosedNode>/sub_32b_sub_32b_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|sub_32b_bench.vhd</ClosedNode>
+         <ClosedNode>/top_cpu_top_cpu_sch_tb - behavioral |home|emmanuel|current_projects|Xilinx|Workspace|cpu_divider|top_cpu_bench.vhd/UUT - top_cpu</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>top_cpu_top_cpu_sch_tb - behavioral (/home/emmanuel/current_projects/Xilinx/Workspace/cpu_divider/top_cpu_bench.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >1</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001fc000000020000000000000000000000000200000064ffffffff000000810000000300000002000001fc0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>top_cpu_top_cpu_sch_tb - behavioral (/home/emmanuel/current_projects/Xilinx/Workspace/cpu_divider/top_cpu_bench.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000142000000010000000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000142000000010000000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000142000000010000000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001410000012001000000060100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>

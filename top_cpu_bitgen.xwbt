@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\hth\Desktop\battle_totest\cpu_final\top_cpu.ncd
+OUTFILE=C:\Users\hth\Desktop\battle_totest\cpu_final\top_cpu.bit
+FAMILY=Spartan3
+PART=xc3s400-5ft256
+WORKINGDIR=C:\Users\hth\Desktop\battle_totest\cpu_final
+LICENSE=WebPack
+USER_INFO=205898446_0_0_119

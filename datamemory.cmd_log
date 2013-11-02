@@ -1,0 +1,8 @@
+vhdtdtfi -lib work datamemory.vhd -prj cpu_final -o datamemory.spl -module datamemory -template /home/emmanuel/current_projects/Xilinx/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 -w datamemory.spl /home/emmanuel/current_projects/Xilinx/Workspace/cpu_final/datamemory.sym 
+vhdtdtfi -lib work datamemory.vhd -prj cpu_final -o datamemory.spl -module datamemory -template /home/emmanuel/current_projects/Xilinx/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 -w datamemory.spl /home/emmanuel/current_projects/Xilinx/Workspace/cpu_final/datamemory.sym 
+vhdtdtfi -lib work datamemory.vhd -prj cpu_final -o datamemory.spl -module datamemory -template /home/emmanuel/current_projects/Xilinx/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 -w datamemory.spl /home/emmanuel/current_projects/Xilinx/Workspace/cpu_final/datamemory.sym 
+vhdtdtfi -lib work datamemory.vhd -prj cpu_final -o datamemory.spl -module datamemory -template C:/Xilinx/13.1/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 -w datamemory.spl C:/Users/hth/Desktop/battle_totest/cpu_final/datamemory.sym 

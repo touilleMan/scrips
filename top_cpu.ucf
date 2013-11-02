@@ -1,0 +1,50 @@
+
+
+NET "I_Clock" LOC = T9;
+NET "I_St_7l[0]" LOC = R4;
+NET "I_St_7l[1]" LOC = M2;
+NET "I_St_7l[2]" LOC = M1;
+NET "I_St_7l[3]" LOC = L5;
+NET "I_St_7l[4]" LOC = L4;
+NET "I_St_7l[5]" LOC = P2;
+NET "I_Sensors[0]" LOC = L3;
+NET "I_Sensors[1]" LOC = L2;
+NET "I_Sensors[2]" LOC = K5;
+NET "I_Sensors[3]" LOC = K4;
+NET "I_Sensors[4]" LOC = K3;
+NET "I_Sensors[5]" LOC = K2;
+NET "I_Sensors[6]" LOC = J4;
+NET "O_LMotor[0]" LOC = M7;
+NET "O_LMotor[1]" LOC = T7;
+NET "O_LMotor[2]" LOC = R7;
+NET "O_LMotor[3]" LOC = P8;
+NET "O_Leds[0]" LOC = R5;
+NET "O_Leds[1]" LOC = P5;
+NET "O_Leds[2]" LOC = N6;
+NET "O_Leds[3]" LOC = M6;
+NET "O_Leds[4]" LOC = R6;
+NET "O_Leds[5]" LOC = P6;
+NET "O_Leds[6]" LOC = N7;
+NET "O_RMotor[0]" LOC = T12;
+NET "O_RMotor[1]" LOC = T14;
+NET "O_RMotor[2]" LOC = N12;
+NET "O_RMotor[3]" LOC = P13;
+NET "I_Rf[0]" LOC = K1;
+NET "I_Rf[1]" LOC = R1;
+NET "I_Rf[2]" LOC = P1;
+NET "O_Buzzer" LOC = T10;
+NET "O_Seg[0]" LOC = G2;
+NET "O_Seg[1]" LOC = C1;
+NET "O_Seg[2]" LOC = B1;
+NET "O_Seg[3]" LOC = C2;
+NET "O_Seg[4]" LOC = C3;
+NET "O_Seg[5]" LOC = D1;
+NET "O_Seg[6]" LOC = D2;
+NET "O_Seg[7]" LOC = E3;
+NET "O_El_7l[0]" LOC = T3;
+NET "O_El_7l[1]" LOC = R3;
+NET "O_El_7l[2]" LOC = T4;
+
+# PlanAhead Generated physical constraints 
+
+NET "I_Reset" LOC = F4;
